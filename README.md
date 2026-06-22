@@ -5,7 +5,7 @@
 <img width="2160" height="2880" alt="image" src="https://github.com/user-attachments/assets/28cf87e7-6bce-4258-8745-08aa645c9c38" />
 
 
-started my first home lab on a lenovo thinkcentre m710
+started my first home lab on a lenovo thinkcentre m710s
 
 - processor: intel core i5 – 7500 (4 cores, up to 3.8ghz) 
 - memory (ram): 16gb ddr4 
