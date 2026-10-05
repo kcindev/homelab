@@ -12,6 +12,7 @@ started my first home lab on a lenovo thinkcentre m710s
 - gpu: intel hd 630 
 - storage: ssd 250gb & hdd 500gb
 
+```text
 Lenovo ThinkCentre M710s
 └── Proxmox VE
     │
@@ -33,5 +34,5 @@ Lenovo ThinkCentre M710s
     ├── Optional Windows Server VM
     │
     └── Optional OPNsense/pfSense VM
-
+```
 
